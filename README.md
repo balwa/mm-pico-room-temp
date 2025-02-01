@@ -25,4 +25,4 @@ Run the python file at pi 4 startup and install the module PicoIndoorTemp to you
 
 if the setup is working you would see something similar in your current weather config for magic mirror:
 
-![home icon with indoor temperature](./IndoorTemp.jpeg)
+![home icon with indoor temperature](indoorTemp.jpeg)
